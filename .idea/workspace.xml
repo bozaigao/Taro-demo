@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6c9de6b3-532f-4364-9ea4-b725be6bcac2" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Taro-demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLinters/jshint.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/dev.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/prod.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/global.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/config/dev.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/config/dev.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/config/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/config/index.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/config/prod.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/config/prod.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib/config/dev.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib/config/dev.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib/config/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib/config/index.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib/config/prod.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib/config/prod.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib/lib/config/dev.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib/lib/config/dev.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib/lib/config/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib/lib/config/index.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib/lib/config/prod.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib/lib/config/prod.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib/lib/src/actions/counter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib/lib/src/actions/counter.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib/lib/src/app.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib/lib/src/app.jsx.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib/lib/src/constants/counter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib/lib/src/constants/counter.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib/lib/src/pages/class/classpage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib/lib/src/pages/class/classpage.jsx.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib/lib/src/pages/home/homepage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib/lib/src/pages/home/homepage.jsx.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib/lib/src/pages/mine/minepage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib/lib/src/pages/mine/minepage.jsx.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib/lib/src/pages/prefecture/prefecturepage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib/lib/src/pages/prefecture/prefecturepage.jsx.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib/lib/src/reducers/counter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib/lib/src/reducers/counter.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib/lib/src/reducers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib/lib/src/reducers/index.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib/lib/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib/lib/src/store/index.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib/src/actions/counter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib/src/actions/counter.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib/src/app.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib/src/app.jsx.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib/src/constants/counter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib/src/constants/counter.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib/src/pages/class/classpage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib/src/pages/class/classpage.jsx.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib/src/pages/home/homepage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib/src/pages/home/homepage.jsx.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib/src/pages/mine/minepage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib/src/pages/mine/minepage.jsx.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib/src/pages/prefecture/prefecturepage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib/src/pages/prefecture/prefecturepage.jsx.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib/src/reducers/counter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib/src/reducers/counter.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib/src/reducers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib/src/reducers/index.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib/src/store/index.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/actions/counter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/actions/counter.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/actions/home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/actions/home.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/actions/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/actions/login.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/api/httpurl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/api/httpurl.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/api/request.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/api/request.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/app.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/app.jsx.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/app.weapp.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/app.weapp.jsx.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/compoments/loading/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/compoments/loading/index.jsx.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/compoments/loading/index.rn.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/compoments/loading/index.rn.jsx.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/compoments/my-modal/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/compoments/my-modal/index.jsx.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/compoments/my-modal/index.rn.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/compoments/my-modal/index.rn.jsx.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/compoments/safe-area-view/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/compoments/safe-area-view/index.jsx.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/compoments/safe-area-view/index.rn.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/compoments/safe-area-view/index.rn.jsx.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/compoments/safe-area-view/index.weapp.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/compoments/safe-area-view/index.weapp.jsx.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/compoments/text/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/compoments/text/index.jsx.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/compoments/text/index.rn.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/compoments/text/index.rn.jsx.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/compoments/touchable-button/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/compoments/touchable-button/index.jsx.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/compoments/touchable-button/index.rn.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/compoments/touchable-button/index.rn.jsx.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/constants/counter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/constants/counter.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/custom-tab-bar/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/custom-tab-bar/index.jsx.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/global_data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/global_data.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/mock/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/mock/login.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/pages/class/classpage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/pages/class/classpage.jsx.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/pages/class/renwu-zhitong-item/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/pages/class/renwu-zhitong-item/index.jsx.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/pages/home/PageComponent/HomeSearchTop/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/pages/home/PageComponent/HomeSearchTop/index.jsx.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/pages/home/home-search-top/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/pages/home/home-search-top/index.jsx.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/pages/home/homepage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/pages/home/homepage.jsx.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/pages/home/jifen-and-qiandao/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/pages/home/jifen-and-qiandao/index.jsx.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/pages/home/sign-alert/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/pages/home/sign-alert/index.jsx.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/pages/home/sign-alert/index.rn.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/pages/home/sign-alert/index.rn.jsx.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/pages/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/pages/index.jsx.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/pages/mine/minepage-list-item/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/pages/mine/minepage-list-item/index.jsx.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/pages/mine/minepage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/pages/mine/minepage.jsx.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/pages/prefecture/prefecturepage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/pages/prefecture/prefecturepage.jsx.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/reducers/counter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/reducers/counter.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/reducers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/reducers/index.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/reducers/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/reducers/login.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/store/index.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/utils/datatool.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/utils/datatool.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/utils/redux.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/utils/redux.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/utils/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/utils/style.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mock/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project.config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/actions/counter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/actions/home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/actions/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/api/httpurl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/api/request.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/app.weapp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/app.weapp_styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/app_styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/assets/ico_doctor_default_head.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/assets/ico_homepage_clock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/assets/ico_homepage_comment_gray.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/assets/ico_homepage_eye_gray.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/assets/ico_homepage_jifen_btn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/assets/ico_homepage_qiandao_btn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/assets/ico_homepage_search_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/assets/ico_homepage_search_gray.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/assets/ico_homepage_xinfeng.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/assets/ico_huanzhe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/assets/ico_kefu_btn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/assets/ico_loading_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/assets/ico_minepage_arrow_right_white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/assets/ico_minepage_class.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/assets/ico_minepage_item_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/assets/ico_minepage_jifen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/assets/ico_minepage_kehu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/assets/ico_minepage_shezhi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/assets/ico_minepage_shouchang.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/assets/ico_minepage_xiaoxi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/assets/ico_minepage_yijian.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/assets/ico_modal_close_btn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/assets/ico_next.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/assets/ico_qiandao_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/assets/ico_qiandao_tag.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/assets/ico_qiandao_yiqian_gou.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/assets/ico_rwzt_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/assets/ico_rwzt_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/assets/ico_rwzt_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/assets/ico_rwzt_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/assets/ico_sales_default_head.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/assets/ico_swiper.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/assets/ico_tabar_class_normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/assets/ico_tabar_class_pressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/assets/ico_tabar_home_normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/assets/ico_tabar_home_pressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/assets/ico_tabar_mine_normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/assets/ico_tabar_mine_pressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/assets/ico_tabar_prefecture_normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/assets/ico_tabar_prefecture_pressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/assets/ico_tabar_workbench_normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/assets/ico_tabar_workbench_pressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/assets/ico_user_default_head.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/assets/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/compoments/loading/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/compoments/loading/index.rn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/compoments/my-modal/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/compoments/my-modal/index.rn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/compoments/safe-area-view/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/compoments/safe-area-view/index.rn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/compoments/safe-area-view/index.weapp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/compoments/text/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/compoments/text/index.rn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/compoments/touchable-button/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/compoments/touchable-button/index.rn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/constants/counter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/custom-tab-bar/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/pages/class/classpage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/pages/class/renwu-zhitong-item/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/pages/home/home-search-top/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/pages/home/homepage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/pages/home/jifen-and-qiandao/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/pages/home/sign-alert/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/pages/home/sign-alert/index.rn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/pages/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/pages/mine/minepage-list-item/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/pages/mine/minepage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/pages/prefecture/prefecturepage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/reducers/counter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/reducers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/reducers/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/utils/datatool.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/utils/redux.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rn_temp/utils/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/actions/home.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/actions/login.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/httpurl.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/request.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app.weapp.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/ico_doctor_default_head.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/ico_homepage_clock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/ico_homepage_comment_gray.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/ico_homepage_eye_gray.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/ico_homepage_jifen_btn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/ico_homepage_qiandao_btn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/ico_homepage_search_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/ico_homepage_search_gray.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/ico_homepage_xinfeng.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/ico_huanzhe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/ico_kefu_btn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/ico_loading_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/ico_minepage_arrow_right_white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/ico_minepage_class.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/ico_minepage_item_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/ico_minepage_jifen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/ico_minepage_kehu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/ico_minepage_shezhi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/ico_minepage_shouchang.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/ico_minepage_xiaoxi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/ico_minepage_yijian.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/ico_modal_close_btn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/ico_next.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/ico_qiandao_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/ico_qiandao_tag.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/ico_qiandao_yiqian_gou.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/ico_rwzt_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/ico_rwzt_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/ico_rwzt_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/ico_rwzt_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/ico_sales_default_head.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/ico_swiper.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/ico_tabar_class_normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/ico_tabar_class_pressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/ico_tabar_home_normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/ico_tabar_home_pressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/ico_tabar_mine_normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/ico_tabar_mine_pressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/ico_tabar_prefecture_normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/ico_tabar_prefecture_pressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/ico_tabar_workbench_normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/ico_tabar_workbench_pressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/ico_user_default_head.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/compoments/loading/index.rn.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/compoments/loading/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/compoments/my-modal/index.rn.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/compoments/my-modal/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/compoments/safe-area-view/index.rn.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/compoments/safe-area-view/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/compoments/safe-area-view/index.weapp.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/compoments/text/index.rn.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/compoments/text/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/compoments/touchable-button/index.rn.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/compoments/touchable-button/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/custom-tab-bar/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/class/classpage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/class/renwu-zhitong-item/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/home/home-search-top/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/home/homepage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/home/jifen-and-qiandao/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/home/sign-alert/index.rn.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/home/sign-alert/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/mine/minepage-list-item/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/mine/minepage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/prefecture/prefecturepage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reducers/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/reset.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/datatool.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/redux.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/style.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/dist/" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/Taro-demo/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/Taro-demo/package.json" />
+      <path value="$PROJECT_DIR$/third_changes/@tarojs/taro-router-rn/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Taro-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Taro-demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Taro-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Taro-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Taro-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Taro-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.prettier" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.prettier" value="project" />
+    <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/node_modules/eslint" />
+    <property name="node.js.selected.package.prettier" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c9de6b3-532f-4364-9ea4-b725be6bcac2" name="Default" comment="" />
+      <created>1570528937499</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570528937499</updated>
+      <workItem from="1570528939330" duration="204000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="204000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <layout>
+      <window_info anchor="bottom" id="TypeScript" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24954791" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info id="npm" side_tool="true" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32923076" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/api/request.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
