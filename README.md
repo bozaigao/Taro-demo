@@ -34,7 +34,8 @@ typescript+eslint+redux+taro+react-native+mock
 
 
 ### 用法
-直接clone本项目进入项目根目录执行npm install操作,然后将third_changes对应目录里面的修改项替换项目根目录node_modules里面对应的组件,react-native原生端壳子[Taro-demo-rn-shell](https://github.com/bozaigao/Taro-demo-rn-shell),更多官方组件使用请移步[京东Taro官方文档](https://taro-docs.jd.com)、[微信小程序官方文档](https://developers.weixin.qq.com/miniprogram/dev/devtools/qywx-dev.html)
+直接clone本项目进入项目根目录执行npm install操作,然后将third_changes对应目录里面的修改项替换项目根目录node_modules里面对应的组件,react-native原生端壳子[Taro-demo-rn-shell](https://github.com/bozaigao/Taro-demo-rn-shell).
+更多官方组件使用请移步[京东Taro官方文档](https://taro-docs.jd.com)、[微信小程序官方文档](https://developers.weixin.qq.com/miniprogram/dev/devtools/qywx-dev.html)
 - 先打开本地mock服务命令:npm run mock
 - rn端运行命令:npm run dev:rm
 - h5端运行命令:npm run dev:h5
