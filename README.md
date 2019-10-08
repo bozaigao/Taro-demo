@@ -13,20 +13,6 @@ github上能找到的taro适配Android、iOS、微信小程序、H5最佳实践,
 将上述scss写法替换为以下写法,简化布局代码,同时解决了scss样式无法通过className进行属性传递的问题
 ```javascript
 style={styleAssign([styles.udr,styles.uac,bgColor('white'),ml(20),mr(20)]}
-
-/**
- * @author 何晏波
- * @QQ 1054539528
- * @date 2019/9/21
- * @function: 将样式数组进行合并
- */
-export function styleAssign(styles: any[]) {
-  styles.unshift({display: 'flex'});
-  styles.unshift({flexDirection: 'column'});
-  styles.unshift({position: 'relative'});
-  //@ts-ignore
-  return Object.assign(...styles);
-}
 ```
 
 ### 技术栈
