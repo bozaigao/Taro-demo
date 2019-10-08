@@ -10,7 +10,7 @@ github上能找到的taro适配Android、iOS、微信小程序、H5最佳实践,
   margin-right: 20px;
  }
 ```
-替换为以下写法,简化布局代码,同时解决了scss样式无法通过className进行属性传递的问题
+将上述scss写法替换为以下写法,简化布局代码,同时解决了scss样式无法通过className进行属性传递的问题
 ```javascript
 style={styleAssign([styles.udr,styles.uac,bgColor('white'),ml(20),mr(20)]}
 
