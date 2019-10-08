@@ -1,6 +1,6 @@
 # Taro-demo
 github上能找到的taro适配Android、iOS、微信小程序、H5最佳实践,主要涉及到了基础网络请求的封装、适配了多端的SafeArea安全区域、style工具样式引用替换scss的繁琐写法大幅度简化代码,同时解决了scss样式无法通过className进行属性传递的问题、自定义tabBar、全局模态对话框展示(解决了微信小程序端不能覆盖底部tabBar的问题)、展示了相同组件多端适配引用的方式、多端样式布局通过styleAssign注入flex、column、relative的方式实现统一化、演示了app的消息通信,通过mock数据在本地搭建服务进行前后端分离开发、本脚手架各端适配的比较完美适合用来进行全新项目的多端开发,后续基础组件持续完善中,目标是打造一个多端共用的基础组件库.
-```javascript
+```css
  .home__search__top {
   display: flex;
   flex-direction: row;
