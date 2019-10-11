@@ -27,7 +27,7 @@ class JiFenAndQianDao extends PureComponent<Props, State> {
 
   render() {
     return (
-      <View style={styleAssign([styles.udr, h(57), wRatio(100), styles.uac])}>
+      <View style={styleAssign([styles.udr, h(57), wRatio(100), styles.uac,bgColor(commonStyles.whiteColor)])}>
         <View style={styleAssign([styles.udr, h(57), wRatio(50), styles.uac, styles.ujc])}>
           <TouchableButton
             customStyle={styleAssign([styles.uac, styles.ujc, bgColor(commonStyles.whiteColor)])}

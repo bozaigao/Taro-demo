@@ -30,7 +30,7 @@ class HomeSearchTop extends PureComponent<Props> {
     let {leftClick, rightClick} = this.props;
 
     return (
-      <View style={styleAssign([styles.uac, styles.udr, wRatio(100)])}>
+      <View style={styleAssign([styles.uac, styles.udr, wRatio(100),bgColor(commonStyles.whiteColor)])}>
         {/*信封*/}
         <View
           style={styleAssign([bgColor(commonStyles.whiteColor), wRatio(10), h(50), styles.uac, styles.ujc,])}

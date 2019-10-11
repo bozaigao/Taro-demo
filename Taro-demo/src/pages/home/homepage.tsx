@@ -92,11 +92,13 @@ class Homepage extends Component<Props, State> {
     }).catch(e => {
       this.viewRef.hideLoading();
       //android模拟器无法访问mock的本地服务所以这里处理下，在真实网络请求中不存在该问题
-      this.setState({bannerList: ["https://gzol.oss-cn-qingdao.aliyuncs.com/20190906161007.png",
+      this.setState({
+        bannerList: ["https://gzol.oss-cn-qingdao.aliyuncs.com/20190906161007.png",
           "https://gzol.oss-cn-qingdao.aliyuncs.com/20190926100637.png",
           "https://gzol.oss-cn-qingdao.aliyuncs.com/20190926103054.png",
           "https://gzol.oss-cn-qingdao.aliyuncs.com/20190926115113.png"
-        ]});
+        ]
+      });
       console.log('报错啦', e);
     });
   }
@@ -136,7 +138,7 @@ class Homepage extends Component<Props, State> {
     return (
       <CustomSafeAreaView ref={(ref) => {
         this.viewRef = ref;
-      }}>
+      }} customStyle={styleAssign([bgColor(commonStyles.pageDefaultBackgroundColor)])}>
         {/*顶部搜索组件*/}
         <HomeSearchTop leftClick={() => {
           Taro.showToast({title: '开发中'});
@@ -161,7 +163,6 @@ class Homepage extends Component<Props, State> {
                                       style={styleAssign([wRatio(100), hRatio(100)])}/>;
                       })
                     }
-
                   </RNSwiper>
                 </View> :
                 <View style={styleAssign([wRatio(100), h(150)])}>
@@ -181,10 +182,9 @@ class Homepage extends Component<Props, State> {
           </View>
           {/*积分商城和签到*/}
           <JiFenAndQianDao/>
-          <View style={styleAssign([wRatio(100), h(10), bgColor('#f8f8f8')])}/>
           {/*以下组件代码没有抽离出单独的组件进行引用，只是简单的演示作用*/}
           {/*政策解读*/}
-          <View style={styleAssign([wRatio(100)])}>
+          <View style={styleAssign([wRatio(100),bgColor(commonStyles.whiteColor),mt(10)])}>
             <View style={styleAssign([styles.uac, styles.udr, mt(10)])}>
               <View style={styleAssign([w(5), h(15), bgColor(commonStyles.colorTheme), ml(20)])}/>
               <Text style={styleAssign([fSize(16), ml(5)])}>政策解读</Text>
@@ -234,7 +234,7 @@ class Homepage extends Component<Props, State> {
             </View>
           </View>
           {/*健康生活*/}
-          <View style={styleAssign([wRatio(100)])}>
+          <View style={styleAssign([wRatio(100),bgColor(commonStyles.whiteColor),mt(10)])}>
             <View style={styleAssign([styles.uac, styles.udr, mt(10)])}>
               <View style={styleAssign([w(5), h(15), bgColor(commonStyles.colorTheme), ml(20)])}/>
               <Text style={styleAssign([fSize(16), ml(5)])}>健康生活</Text>
@@ -253,7 +253,7 @@ class Homepage extends Component<Props, State> {
             </View>
           </View>
           {/*大家都在看*/}
-          <View style={styleAssign([wRatio(100)])}>
+          <View style={styleAssign([wRatio(100),bgColor(commonStyles.whiteColor),mt(10)])}>
             <View style={styleAssign([styles.uac, styles.udr, mt(10)])}>
               <View style={styleAssign([w(5), h(15), bgColor(commonStyles.colorTheme), ml(20)])}/>
               <Text style={styleAssign([fSize(16), ml(5)])}>大家都在看</Text>
