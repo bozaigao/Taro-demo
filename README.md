@@ -46,4 +46,4 @@ typescript+eslint+redux+taro+react-native+mock
 
 ![效果图1](./img/taro_4.jpeg)
 
-基于闲鱼fish-redux架构的Flutter项目脚手架[fish-redux-demo](https://github.com/bozaigao/fish-redux-demo)
+基于闲鱼fish-redux架构的Flutter项目脚手架友情链接[fish-redux-demo](https://github.com/bozaigao/fish-redux-demo)
