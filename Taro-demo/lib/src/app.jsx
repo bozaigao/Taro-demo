@@ -65,6 +65,7 @@ class App extends taro_1.Component {
                     }]
             }
         };
+        console.log('呵呵', global);
         global.debug = true;
         taro_1.default.getSystemInfo({
             success: res => {

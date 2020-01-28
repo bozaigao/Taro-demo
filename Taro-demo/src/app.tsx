@@ -20,6 +20,8 @@ class App extends Component {
   constructor(props) {
     super(props);
 
+    console.log('呵呵',global);
+
     global.debug = true;
     Taro.getSystemInfo({
       success: res => {

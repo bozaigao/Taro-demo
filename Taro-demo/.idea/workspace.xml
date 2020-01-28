@@ -17,8 +17,8 @@
       <file leaf-file-name="homepage.tsx" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pages/home/homepage.tsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1672">
-              <caret line="98" column="12" selection-start-line="93" selection-start-column="6" selection-end-line="98" selection-end-column="12" />
+            <state relative-caret-position="440">
+              <caret line="42" column="14" selection-start-line="42" selection-start-column="6" selection-end-line="42" selection-end-column="14" />
               <folding>
                 <element signature="e#0#52#0" expanded="true" />
                 <element signature="e#284#334#0" expanded="true" />
@@ -27,98 +27,77 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mock/index.js">
+      <file leaf-file-name="app.tsx" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/app.tsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="18" column="7" selection-start-line="14" selection-start-column="11" selection-end-line="18" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.rn.jsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/src/pages/home/sign-alert/index.rn.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2222">
-              <caret line="101" column="190" selection-start-line="101" selection-start-column="190" selection-end-line="101" selection-end-column="190" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.rn.tsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pages/home/sign-alert/index.rn.tsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1452">
-              <caret line="98" column="25" selection-start-line="98" selection-start-column="25" selection-end-line="98" selection-end-column="25" />
+            <state relative-caret-position="249">
+              <caret line="89" column="19" selection-start-line="89" selection-start-column="19" selection-end-line="89" selection-end-column="19" />
               <folding>
-                <element signature="n#!!doc" expanded="true" />
-                <element signature="e#108#153#0" expanded="true" />
-                <element signature="e#895#958#0" expanded="true" />
+                <element signature="e#0#28#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.tsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pages/home/sign-alert/index.tsx">
+      <file leaf-file-name="login.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/actions/login.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1298">
-              <caret line="90" column="43" selection-start-line="89" selection-start-column="16" selection-end-line="90" selection-end-column="43" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state relative-caret-position="264">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.rn.tsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/compoments/my-modal/index.rn.tsx">
+      <file leaf-file-name="index.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/store/index.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="25" column="14" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state relative-caret-position="286">
+              <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Image.d.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/node_modules/@tarojs/components/types/Image.d.ts">
+      <file leaf-file-name="index.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/reducers/index.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="15" column="21" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="21" />
+            <state relative-caret-position="88">
+              <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="prefecturepage.tsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pages/prefecture/prefecturepage.tsx">
+      <file leaf-file-name="home.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/actions/home.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="946">
-              <caret line="63" column="20" selection-start-line="63" selection-start-column="20" selection-end-line="63" selection-end-column="20" />
-              <folding>
-                <element signature="e#0#52#0" expanded="true" />
-                <element signature="e#428#466#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="220">
+              <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="minepage.tsx" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/pages/mine/minepage.tsx">
+      <file leaf-file-name="redux.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/utils/redux.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+            <state relative-caret-position="176">
+              <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.tsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/compoments/text/index.tsx">
+      <file leaf-file-name="request.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/api/request.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+            <state relative-caret-position="1188">
+              <caret line="55" column="24" selection-start-line="55" selection-start-column="24" selection-end-line="55" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="httpurl.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/api/httpurl.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="770">
+              <caret line="36" column="27" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -127,9 +106,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>iphoneX</find>
-      <find>anonymousState__temp</find>
-      <find>paddingHeight</find>
       <find>签到成功</find>
       <find>style={{</find>
       <find>searTopBg</find>
@@ -139,7 +115,6 @@
       <find>white</find>
       <find>theme</find>
       <find>bannerList</find>
-      <find>dispatchBannerInfo</find>
       <find>viewRef</find>
       <find>reau</find>
       <find>request</find>
@@ -157,6 +132,10 @@
       <find>icoQiandaoBg</find>
       <find>textOver</find>
       <find>centerBarList</find>
+      <find>getSystemInfo</find>
+      <find>dispatchBannerInfo</find>
+      <find>bannerInfo</find>
+      <find>updateStorage</find>
     </findStrings>
     <replaceStrings>
       <replace>YaoRenDangGui_CP</replace>
@@ -198,7 +177,6 @@
         <option value="$PROJECT_DIR$/config/dev.js" />
         <option value="$PROJECT_DIR$/src/reducers/login.ts" />
         <option value="$PROJECT_DIR$/src/pages/class/history-task/index.tsx" />
-        <option value="$PROJECT_DIR$/src/app.tsx" />
         <option value="$PROJECT_DIR$/src/pages/home/sign-alert/index.tsx" />
         <option value="$PROJECT_DIR$/config/index.js" />
         <option value="$PROJECT_DIR$/src/utils/datatool.ts" />
@@ -221,9 +199,10 @@
         <option value="$PROJECT_DIR$/src/compoments/text/index.tsx" />
         <option value="$PROJECT_DIR$/src/compoments/my-modal/index.rn.tsx" />
         <option value="$PROJECT_DIR$/src/pages/home/sign-alert/index.rn.tsx" />
-        <option value="$PROJECT_DIR$/src/pages/home/homepage.tsx" />
         <option value="$PROJECT_DIR$/src/pages/prefecture/prefecturepage.tsx" />
         <option value="$PROJECT_DIR$/src/pages/mine/minepage.tsx" />
+        <option value="$PROJECT_DIR$/src/app.tsx" />
+        <option value="$PROJECT_DIR$/src/pages/home/homepage.tsx" />
       </list>
     </option>
   </component>
@@ -244,8 +223,10 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1680" />
-    <option name="height" value="1050" />
+    <option name="x" value="312" />
+    <option name="y" value="304" />
+    <option name="width" value="1596" />
+    <option name="height" value="972" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -262,6 +243,43 @@
             <path>
               <item name="Taro-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="Taro-demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Taro-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Taro-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Taro-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Taro-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="compoments" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Taro-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Taro-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Taro-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Taro-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="class" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Taro-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Taro-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Taro-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Taro-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="reducers" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -394,33 +412,48 @@
       <workItem from="1570412246630" duration="14187000" />
       <workItem from="1570496829835" duration="21457000" />
       <workItem from="1570529275007" duration="1031000" />
+      <workItem from="1570773535538" duration="1201000" />
+      <workItem from="1573699577846" duration="1459000" />
+      <workItem from="1574128149739" duration="1315000" />
+      <workItem from="1574644205272" duration="1842000" />
+      <workItem from="1575082037861" duration="117000" />
+      <workItem from="1575119092834" duration="447000" />
+      <workItem from="1575247230984" duration="134000" />
+      <workItem from="1575248315891" duration="2467000" />
+      <workItem from="1575382585005" duration="169000" />
+      <workItem from="1577199652606" duration="2409000" />
+      <workItem from="1577290844440" duration="638000" />
+      <workItem from="1577544108345" duration="1123000" />
+      <workItem from="1578037870520" duration="110000" />
+      <workItem from="1578040968551" duration="831000" />
+      <workItem from="1578275443092" duration="75000" />
+      <workItem from="1580225381381" duration="26000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="325621000" />
+    <option name="totallyTimeSpent" value="339984000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TypeScript" order="7" weight="0.32923076" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2212176" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20313442" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50030136" side_tool="true" weight="0.32102564" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="npm" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32998565" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.4996986" visible="true" weight="0.2697436" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.4996986" visible="true" weight="0.21230769" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3271795" />
     </layout>
@@ -450,62 +483,10 @@
     <option name="version" value="1" />
     <option name="exactExcludedFiles">
       <list>
-        <option value="$PROJECT_DIR$/../../../tmp/药仁当归/YaoRenDangGui/src/Page/MainPage/WorkbenchPage/PageComponent/WorkbenchTopAction.js.map" />
-        <option value="$PROJECT_DIR$/../../../tmp/药仁当归/YaoRenDangGui/src/Page/MainPage/WorkbenchPage/PageComponent/WorkbenchTopAction.js" />
-        <option value="$PROJECT_DIR$/../../../tmp/药仁当归/YaoRenDangGui/src/Utils/ShareUtils.js.map" />
-        <option value="$PROJECT_DIR$/../../../tmp/药仁当归/YaoRenDangGui/src/Utils/ShareUtils.js" />
-        <option value="$PROJECT_DIR$/../../../tmp/药仁当归/YaoRenDangGui/src/Components/MyHeaderImg.js.map" />
-        <option value="$PROJECT_DIR$/../../../tmp/药仁当归/YaoRenDangGui/src/Components/MyHeaderImg.js" />
-        <option value="$PROJECT_DIR$/../../../tmp/药仁当归/YaoRenDangGui/src/Components/SharePopView.js" />
-        <option value="$PROJECT_DIR$/../../../tmp/药仁当归/YaoRenDangGui/src/Components/SharePopView.js.map" />
-        <option value="$PROJECT_DIR$/../../../tmp/药仁当归/YaoRenDangGui/src/Components/WordSearchSuspension.js" />
-        <option value="$PROJECT_DIR$/../../../tmp/药仁当归/YaoRenDangGui/src/Components/WordSearchSuspension.js.map" />
-        <option value="$PROJECT_DIR$/../../../tmp/药仁当归/YaoRenDangGui/src/Page/MainPage/WorkbenchPage/PageComponent/TaskNodesPage.js.map" />
-        <option value="$PROJECT_DIR$/../../../tmp/药仁当归/YaoRenDangGui/src/Page/MainPage/WorkbenchPage/PageComponent/TaskBasicView.js.map" />
-        <option value="$PROJECT_DIR$/../../../tmp/药仁当归/YaoRenDangGui/src/Page/MainPage/WorkbenchPage/PageComponent/TaskNodesPage.js" />
-        <option value="$PROJECT_DIR$/../../../tmp/药仁当归/YaoRenDangGui/src/Page/MainPage/WorkbenchPage/PageComponent/TaskBasicView.js" />
-        <option value="$PROJECT_DIR$/../../../tmp/药仁当归/YaoRenDangGui/src/Page/MainPage/WorkbenchPage/Page/CompanyListPage.js.map" />
-        <option value="$PROJECT_DIR$/../../../tmp/药仁当归/YaoRenDangGui/src/Page/MainPage/WorkbenchPage/Page/SignaturePage.js" />
-        <option value="$PROJECT_DIR$/../../../tmp/药仁当归/YaoRenDangGui/src/Page/MainPage/WorkbenchPage/Page/SubmitTaskPageTwo.js.map" />
-        <option value="$PROJECT_DIR$/../../../tmp/药仁当归/YaoRenDangGui/src/Page/MainPage/WorkbenchPage/Page/AllTaskPage.js" />
-        <option value="$PROJECT_DIR$/../../../tmp/药仁当归/YaoRenDangGui/src/Page/MainPage/WorkbenchPage/Page/CompanyListPage.js" />
-        <option value="$PROJECT_DIR$/../../../tmp/药仁当归/YaoRenDangGui/src/Page/MainPage/WorkbenchPage/Page/SignaturePage.js.map" />
-        <option value="$PROJECT_DIR$/../../../tmp/药仁当归/YaoRenDangGui/src/Page/MainPage/WorkbenchPage/Page/AllTaskPage.js.map" />
-        <option value="$PROJECT_DIR$/../../../tmp/药仁当归/YaoRenDangGui/src/Page/MainPage/WorkbenchPage/Page/SubmitTaskPageTwo.js" />
-        <option value="$PROJECT_DIR$/../../../tmp/药仁当归/YaoRenDangGui/src/Page/MainPage/WorkbenchPage/Page/ProductListPage.js" />
-        <option value="$PROJECT_DIR$/../../../tmp/药仁当归/YaoRenDangGui/src/Page/MainPage/WorkbenchPage/Page/ProductListPage.js.map" />
-        <option value="$PROJECT_DIR$/../../../tmp/药仁当归/YaoRenDangGui/src/Components/ListItems/CompanyListItem.js" />
-        <option value="$PROJECT_DIR$/../../../tmp/药仁当归/YaoRenDangGui/src/Components/ListItems/CityListItem.js.map" />
-        <option value="$PROJECT_DIR$/../../../tmp/药仁当归/YaoRenDangGui/src/Components/ListItems/MultiChooseListItem.js" />
-        <option value="$PROJECT_DIR$/../../../tmp/药仁当归/YaoRenDangGui/src/Components/ListItems/DateRangeListItem.js.map" />
-        <option value="$PROJECT_DIR$/../../../tmp/药仁当归/YaoRenDangGui/src/Components/ListItems/AreaListItem.js" />
-        <option value="$PROJECT_DIR$/../../../tmp/药仁当归/YaoRenDangGui/src/Components/ListItems/TimeRangeListItem.js.map" />
-        <option value="$PROJECT_DIR$/../../../tmp/药仁当归/YaoRenDangGui/src/Components/ListItems/MonthRangeListItem.js" />
-        <option value="$PROJECT_DIR$/../../../tmp/药仁当归/YaoRenDangGui/src/Components/ListItems/CityListItem.js" />
-        <option value="$PROJECT_DIR$/../../../tmp/药仁当归/YaoRenDangGui/src/Components/ListItems/MultiChooseListItem.js.map" />
-        <option value="$PROJECT_DIR$/../../../tmp/药仁当归/YaoRenDangGui/src/Components/ListItems/ProductListItem.js.map" />
-        <option value="$PROJECT_DIR$/../../../tmp/药仁当归/YaoRenDangGui/src/Components/ListItems/ProductListItem.js" />
-        <option value="$PROJECT_DIR$/../../../tmp/药仁当归/YaoRenDangGui/src/Components/ListItems/TimeRangeListItem.js" />
-        <option value="$PROJECT_DIR$/../../../tmp/药仁当归/YaoRenDangGui/src/Components/ListItems/CompanyListItem.js.map" />
-        <option value="$PROJECT_DIR$/../../../tmp/药仁当归/YaoRenDangGui/src/Components/ListItems/AreaListItem.js.map" />
-        <option value="$PROJECT_DIR$/../../../tmp/药仁当归/YaoRenDangGui/src/Components/ListItems/ProvinceListItem.js" />
-        <option value="$PROJECT_DIR$/../../../tmp/药仁当归/YaoRenDangGui/src/Components/ListItems/DateRangeListItem.js" />
-        <option value="$PROJECT_DIR$/../../../tmp/药仁当归/YaoRenDangGui/src/Components/ListItems/MonthRangeListItem.js.map" />
-        <option value="$PROJECT_DIR$/../../../tmp/药仁当归/YaoRenDangGui/src/Components/ListItems/ProvinceListItem.js.map" />
-        <option value="$PROJECT_DIR$/../../../tmp/药仁当归/YaoRenDangGui/src/Page/MainPage/MessagePage/PageComponent/SystemTaskMessage.js" />
-        <option value="$PROJECT_DIR$/../../../tmp/药仁当归/YaoRenDangGui/src/Page/MainPage/MessagePage/PageComponent/SystemTaskMessage.js.map" />
-        <option value="$PROJECT_DIR$/../../../tmp/药仁当归/YaoRenDangGui/src/Page/MainPage/YunXueShu/Page/TaskDetail.js" />
-        <option value="$PROJECT_DIR$/../../../tmp/药仁当归/YaoRenDangGui/src/Page/MainPage/YunXueShu/Page/TaskDetail.js.map" />
-        <option value="$PROJECT_DIR$/../../../tmp/药仁当归/YaoRenDangGui/src/Page/MainPage/YunXueShu/PageComponent/VideoItem.js" />
-        <option value="$PROJECT_DIR$/../../../tmp/药仁当归/YaoRenDangGui/src/Page/MainPage/YunXueShu/PageComponent/VideoItem.js.map" />
-        <option value="$PROJECT_DIR$/../../../tmp/药仁当归/YaoRenDangGui/src/Page/MainPage/MinePage/Page/MineKehuPage.js.map" />
-        <option value="$PROJECT_DIR$/../../../tmp/药仁当归/YaoRenDangGui/src/Page/MainPage/MinePage/Page/AddKehuPage.js" />
-        <option value="$PROJECT_DIR$/../../../tmp/药仁当归/YaoRenDangGui/src/Page/MainPage/MinePage/Page/MineKehuPage.js" />
-        <option value="$PROJECT_DIR$/../../../tmp/药仁当归/YaoRenDangGui/src/Page/MainPage/MinePage/Page/AddKehuPage.js.map" />
-        <option value="$PROJECT_DIR$/../../../tmp/药仁当归/YaoRenDangGui/src/Page/MainPage/YunXueShu/PageComponent/XueShuTiItem.js" />
-        <option value="$PROJECT_DIR$/../../../tmp/药仁当归/YaoRenDangGui/src/Page/MainPage/YunXueShu/PageComponent/XueShuTiItem.js.map" />
-        <option value="$PROJECT_DIR$/../../../tmp/药仁当归/YaoRenDangGui/src/Page/MainPage/YunXueShu/PageComponent/RwztItem.js" />
-        <option value="$PROJECT_DIR$/../../../tmp/药仁当归/YaoRenDangGui/src/Page/MainPage/YunXueShu/PageComponent/RwztItem.js.map" />
+        <option value="$PROJECT_DIR$/../../../职卓三端项目/YeTongBao/src/Page/MainPage/MessagePage/PageComponent/JiFenMessage.js.map" />
+        <option value="$PROJECT_DIR$/../../../职卓三端项目/YeTongBao/src/Page/MainPage/MessagePage/PageComponent/JiFenMessage.js" />
+        <option value="$PROJECT_DIR$/../../../职卓三端项目/医点数据/E_Point/src/Page/MainPage/MinePage/Page/LeiXingPage.js.map" />
+        <option value="$PROJECT_DIR$/../../../职卓三端项目/医点数据/E_Point/src/Page/MainPage/MinePage/Page/LeiXingPage.js" />
       </list>
     </option>
   </component>
@@ -518,46 +499,13 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/config/prod.js">
+    <entry file="file://$PROJECT_DIR$/src/app.tsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="35">
-          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" column="50" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/dev.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/src/api/request.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/redux/index.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="265" column="2" selection-start-line="265" selection-start-column="2" selection-end-line="265" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/class/history-task/index.tsx" />
-    <entry file="file://$PROJECT_DIR$/dist/weapp/pages/class/classpage.wxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="47" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
+        <state relative-caret-position="1760">
+          <caret line="86" column="40" lean-forward="true" selection-start-line="86" selection-start-column="40" selection-end-line="86" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -565,16 +513,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-549">
           <caret line="98" column="30" selection-start-line="98" selection-start-column="30" selection-end-line="98" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="92" column="18" selection-start-line="92" selection-start-column="15" selection-end-line="92" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -638,10 +576,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
           <caret line="76" column="18" selection-start-line="76" selection-start-column="18" selection-end-line="76" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#36#0" expanded="true" />
-            <element signature="e#116#159#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -659,63 +593,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/store/index.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="28" column="39" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/reducers/login.ts" />
-    <entry file="file://$PROJECT_DIR$/src/reducers/index.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/actions/login.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/actions/home.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="28" column="31" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/class/classpage.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-896">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/api/httpurl.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="33" column="4" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/utils/redux.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="14" column="14" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/utils/datatool.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/@tarojs/taro/types/index.d.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69">
@@ -751,13 +629,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/api/request.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="31" column="21" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/@tarojs/taro-rn/src/api/request/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1166">
@@ -783,9 +654,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="412">
           <caret line="101" column="14" selection-start-line="101" selection-start-column="14" selection-end-line="101" selection-end-column="14" />
-          <folding>
-            <element signature="e#106#138#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -821,9 +689,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
           <caret line="25" column="14" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -838,9 +703,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1298">
           <caret line="90" column="43" selection-start-line="89" selection-start-column="16" selection-end-line="90" selection-end-column="43" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -848,11 +710,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1452">
           <caret line="98" column="25" selection-start-line="98" selection-start-column="25" selection-end-line="98" selection-end-column="25" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#108#153#0" expanded="true" />
-            <element signature="e#895#958#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -863,10 +720,94 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/prefecture/prefecturepage.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="946">
+          <caret line="63" column="20" selection-start-line="63" selection-start-column="20" selection-end-line="63" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/mine/minepage.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="54" column="11" selection-start-line="54" selection-start-column="11" selection-end-line="54" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@tarojs/taro-alipay/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="55" column="9" selection-start-line="55" selection-start-column="9" selection-end-line="55" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@tarojs/taro-rn/src/index.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="52" column="10" selection-start-line="52" selection-start-column="10" selection-end-line="52" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@tarojs/taro-h5/dist/taro-h5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29414">
+          <caret line="1337" column="53" selection-start-line="1337" selection-start-column="40" selection-end-line="1337" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@tarojs/taro-alipay/src/native-api.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6864">
+          <caret line="320" column="13" selection-start-line="320" selection-start-column="13" selection-end-line="320" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@tarojs/taro-alipay/src/lifecycle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/datatool.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="38" column="22" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/class/classpage.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/store/index.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducers/index.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/home/homepage.tsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1672">
-          <caret line="98" column="12" selection-start-line="93" selection-start-column="6" selection-end-line="98" selection-end-column="12" />
+        <state relative-caret-position="440">
+          <caret line="42" column="14" selection-start-line="42" selection-start-column="6" selection-end-line="42" selection-end-column="14" />
           <folding>
             <element signature="e#0#52#0" expanded="true" />
             <element signature="e#284#334#0" expanded="true" />
@@ -874,21 +815,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/prefecture/prefecturepage.tsx">
+    <entry file="file://$PROJECT_DIR$/src/actions/login.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="946">
-          <caret line="63" column="20" selection-start-line="63" selection-start-column="20" selection-end-line="63" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#52#0" expanded="true" />
-            <element signature="e#428#466#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="264">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/mine/minepage.tsx">
+    <entry file="file://$PROJECT_DIR$/src/utils/redux.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+        <state relative-caret-position="176">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/actions/home.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/api/httpurl.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="36" column="27" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/api/request.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="55" column="24" selection-start-line="55" selection-start-column="24" selection-end-line="55" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="89" column="19" selection-start-line="89" selection-start-column="19" selection-end-line="89" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

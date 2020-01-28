@@ -65,7 +65,6 @@ class Homepage extends Component<Props, State> {
     }
   }
 
-
   componentDidMount() {
     console.log('componentDidMount');
     // 监听一个事件，接受参数

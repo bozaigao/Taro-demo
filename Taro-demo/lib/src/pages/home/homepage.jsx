@@ -48,11 +48,13 @@ let Homepage = class Homepage extends taro_1.Component {
             }).catch(e => {
                 this.viewRef.hideLoading();
                 //android模拟器无法访问mock的本地服务所以这里处理下，在真实网络请求中不存在该问题
-                this.setState({ bannerList: ["https://gzol.oss-cn-qingdao.aliyuncs.com/20190906161007.png",
+                this.setState({
+                    bannerList: ["https://gzol.oss-cn-qingdao.aliyuncs.com/20190906161007.png",
                         "https://gzol.oss-cn-qingdao.aliyuncs.com/20190926100637.png",
                         "https://gzol.oss-cn-qingdao.aliyuncs.com/20190926103054.png",
                         "https://gzol.oss-cn-qingdao.aliyuncs.com/20190926115113.png"
-                    ] });
+                    ]
+                });
                 console.log('报错啦', e);
             });
         };
@@ -96,7 +98,7 @@ let Homepage = class Homepage extends taro_1.Component {
         }
         return (<safe_area_view_1.default ref={(ref) => {
             this.viewRef = ref;
-        }}>
+        }} customStyle={datatool_1.styleAssign([style_1.bgColor(style_1.commonStyles.pageDefaultBackgroundColor)])}>
         
         <index_1.default leftClick={() => {
             taro_1.default.showToast({ title: '开发中' });
@@ -115,7 +117,6 @@ let Homepage = class Homepage extends taro_1.Component {
                     {bannerList.map((value, index) => {
                 return <components_1.Image key={index} mode='scaleToFill' src={value} style={datatool_1.styleAssign([style_1.wRatio(100), style_1.hRatio(100)])}/>;
             })}
-
                   </react_native_swiper_fix_viewpager_1.default>
                 </components_1.View> :
             <components_1.View style={datatool_1.styleAssign([style_1.wRatio(100), style_1.h(150)])}>
@@ -130,10 +131,9 @@ let Homepage = class Homepage extends taro_1.Component {
           </components_1.View>
           
           <jifen_and_qiandao_1.default />
-          <components_1.View style={datatool_1.styleAssign([style_1.wRatio(100), style_1.h(10), style_1.bgColor('#f8f8f8')])}/>
           
           
-          <components_1.View style={datatool_1.styleAssign([style_1.wRatio(100)])}>
+          <components_1.View style={datatool_1.styleAssign([style_1.wRatio(100), style_1.bgColor(style_1.commonStyles.whiteColor), style_1.mt(10)])}>
             <components_1.View style={datatool_1.styleAssign([style_1.default.uac, style_1.default.udr, style_1.mt(10)])}>
               <components_1.View style={datatool_1.styleAssign([style_1.w(5), style_1.h(15), style_1.bgColor(style_1.commonStyles.colorTheme), style_1.ml(20)])}/>
               <components_1.Text style={datatool_1.styleAssign([style_1.fSize(16), style_1.ml(5)])}>政策解读</components_1.Text>
@@ -174,7 +174,7 @@ let Homepage = class Homepage extends taro_1.Component {
             </components_1.View>
           </components_1.View>
           
-          <components_1.View style={datatool_1.styleAssign([style_1.wRatio(100)])}>
+          <components_1.View style={datatool_1.styleAssign([style_1.wRatio(100), style_1.bgColor(style_1.commonStyles.whiteColor), style_1.mt(10)])}>
             <components_1.View style={datatool_1.styleAssign([style_1.default.uac, style_1.default.udr, style_1.mt(10)])}>
               <components_1.View style={datatool_1.styleAssign([style_1.w(5), style_1.h(15), style_1.bgColor(style_1.commonStyles.colorTheme), style_1.ml(20)])}/>
               <components_1.Text style={datatool_1.styleAssign([style_1.fSize(16), style_1.ml(5)])}>健康生活</components_1.Text>
@@ -191,7 +191,7 @@ let Homepage = class Homepage extends taro_1.Component {
             </components_1.View>
           </components_1.View>
           
-          <components_1.View style={datatool_1.styleAssign([style_1.wRatio(100)])}>
+          <components_1.View style={datatool_1.styleAssign([style_1.wRatio(100), style_1.bgColor(style_1.commonStyles.whiteColor), style_1.mt(10)])}>
             <components_1.View style={datatool_1.styleAssign([style_1.default.uac, style_1.default.udr, style_1.mt(10)])}>
               <components_1.View style={datatool_1.styleAssign([style_1.w(5), style_1.h(15), style_1.bgColor(style_1.commonStyles.colorTheme), style_1.ml(20)])}/>
               <components_1.Text style={datatool_1.styleAssign([style_1.fSize(16), style_1.ml(5)])}>大家都在看</components_1.Text>

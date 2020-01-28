@@ -23,7 +23,7 @@ const style_1 = require("../../../utils/style");
 class HomeSearchTop extends taro_1.PureComponent {
     render() {
         let { leftClick, rightClick } = this.props;
-        return (<components_1.View style={datatool_1.styleAssign([style_1.default.uac, style_1.default.udr, style_1.wRatio(100)])}>
+        return (<components_1.View style={datatool_1.styleAssign([style_1.default.uac, style_1.default.udr, style_1.wRatio(100), style_1.bgColor(style_1.commonStyles.whiteColor)])}>
         
         <components_1.View style={datatool_1.styleAssign([style_1.bgColor(style_1.commonStyles.whiteColor), style_1.wRatio(10), style_1.h(50), style_1.default.uac, style_1.default.ujc,])} onClick={() => {
             console.log('MessagePage');
